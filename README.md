@@ -1,6 +1,6 @@
 **_Note:This repository uses GitLFS, to use this repo you need to pull via Git and make sure GitLFS is installed locally_**
 
-# Boat Attack
+# Boat Attack (WIP Upgrade to URP 11 using Unity 2021.1.9f1)
 ###### Demo Project using the Universal RP from Unity3D
 
 [![Click for Youtube Video](https://media.githubusercontent.com/media/Verasl/BoatAttack/release/2019.3/Assets/Textures/UI/welcome-title.png)](https://drive.google.com/file/d/1PTNdhnqbhzSWUCfAinIefP5cfr6Dezuw/view)
